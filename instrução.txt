@@ -20,3 +20,5 @@ extensões que precisam ser instaladar:
 
 # PyAutoGUI(Automação de clicks e teclado)
 # Openpyxl (Buscar dados da planilha xl)
+
+site de exemplo : https://cadastro-produtos-devaprender.netlify.app/
